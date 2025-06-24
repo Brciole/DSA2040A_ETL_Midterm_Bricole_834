@@ -42,14 +42,14 @@ Applies 4 key transformations:
 
 ##  3. Tools Used
 
-  Tool          Purpose                        
+  Tools and their Purpose                        
  
-  Python        Programming language            
-  Pandas        Data manipulation and cleaning  
-  Jupyter       Notebooks for ETL steps         
-  Parquet       Efficient file storage format   
-  PowerShell    Command-line for Git & file ops 
-  Git + GitHub  Version control and publishing  
+  Python- Programming language            
+  Pandas-nData manipulation and cleaning  
+  Jupyter- Notebooks for ETL steps         
+  Parquet- Efficient file storage format   
+  PowerShell- Command-line for Git & file ops 
+  Git + GitHub- Version control and publishing  
 
 
 
